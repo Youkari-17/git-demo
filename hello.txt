@@ -1,3 +1,3 @@
 123
-ok
+ok hot-fix test
 hi 1
