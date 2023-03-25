@@ -3,3 +3,4 @@ ok hot-fix test
 hi 1
 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
 github update
+test ssh
